@@ -275,7 +275,6 @@ html {
     color: #fff;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
-    padding-bottom: 30px;
 }
 
 .page__wrap {
@@ -892,7 +891,7 @@ and (orientation: landscape) {
 
     .logo {
         width: auto;
-        max-width: 150px;
+        max-width: 60vw;
         top: 0;
         margin-bottom: 40px;
     }
